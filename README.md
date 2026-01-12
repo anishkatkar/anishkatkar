@@ -20,12 +20,7 @@
 
 ## 🎥 Live Demo
 <div align="center">
-    <!-- Note: GitHub might render this as a downloadable link depending on file size/type support in READMEs. 
-         For best results, we use a relative link that users can click to view. 
-         However, the user requested adding this video. -->
-    <video src="live_demo.mp4" width="100%" controls autoplay loop muted></video>
-    <br/>
-    <a href="live_demo.mp4">Watch Demo Video</a>
+    <img src="Amazon_Automation_online_video_cutter_com_V3.gif" width="100%" alt="Live Demo" />
 </div>
 
 <br/>
